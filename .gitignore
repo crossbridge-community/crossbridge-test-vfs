@@ -3,3 +3,4 @@
 *.abc
 *.bc
 *.o
+tests/filestores/
